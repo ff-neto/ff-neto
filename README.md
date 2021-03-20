@@ -10,6 +10,7 @@
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616242393601.png" width="400px" />
 
 <hr>
+
 ## ⚡ Technologies
 
 Estas são algumas das tecnologias e ferramentas com as quais eu trabalho: 
