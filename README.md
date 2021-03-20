@@ -27,7 +27,7 @@ Estas são algumas das tecnologias e ferramentas com as quais eu estudo:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNetoF&layout=compact&theme=graywhite&title_color=268bd2" alt="Felipe-Ferreira"/>
 </p>
-<p>&nbsp;
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FNetoF&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Felipe-Ferreira" />
 </p>
 <br>
