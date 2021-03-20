@@ -24,12 +24,10 @@ Estas são algumas das tecnologias e ferramentas com as quais eu estudo:
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 
 
-<a href="https://github.com/FNetoF">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNetoF&theme=buefy&layout=compact" />
-</a>
-
-<a href="https://github.com/FNetoF">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNetoF&theme=buefy&layout=compact" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNetoF&layout=compact&show_icons=true&theme=dracula" alt="Felipe-Ferreira" />
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FNetoF" alt="Felipe-Ferreira" /> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNetoF&layout=compact&theme=graywhite&title_color=268bd2" alt="Felipe-Ferreira" />
+<br>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=FNetoF" alt="Felipe-Ferreira" /> 
+</p>
