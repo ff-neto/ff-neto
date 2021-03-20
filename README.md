@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my friend 😄
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FNetoF)](https://github.com/FNetoF)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-fe/)](https://www.linkedin.com/in/felipe-fe/)
@@ -9,7 +9,7 @@
 
 <hr>
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 Estas são algumas das tecnologias e ferramentas com as quais eu estudo: 
 
