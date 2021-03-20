@@ -24,7 +24,7 @@ Estas são algumas das tecnologias e ferramentas com as quais eu estudo:
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 
 
-<p>
+<p>&nbsp;
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNetoF&layout=compact&theme=graywhite&title_color=268bd2" alt="Felipe-Ferreira" />
 </p>
 <p>&nbsp;
