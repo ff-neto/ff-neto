@@ -12,7 +12,7 @@
 <hr>
 ## ⚡ Technologies
 
-Estas são algumas das tecnologias e ferramentas com as quais eu /////: 
+Estas são algumas das tecnologias e ferramentas com as quais eu trabalho: 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
@@ -26,7 +26,7 @@ Estas são algumas das tecnologias e ferramentas com as quais eu /////:
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNetoF&layout=compact&show_icons=true&theme=dracula" alt="Felipe-Ferreira" />
-
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNetoF&layout=compact&theme=graywhite&title_color=268bd2" alt="Felipe-Ferreira" />
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FNetoF" alt="Felipe-Ferreira" /> </p>
