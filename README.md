@@ -31,4 +31,3 @@ Estas são algumas das tecnologias e ferramentas com as quais eu estudo:
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=FNetoF" alt="Felipe-Ferreira" /> 
 </p>
-
