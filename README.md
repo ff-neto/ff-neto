@@ -24,7 +24,10 @@ Estas são algumas das tecnologias e ferramentas com as quais eu estudo:
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>
-
-
+<img width="360" src="https://github-readme-stats.vercel.app/api?username=FNetoF&show_icons=true"/>
+<br>
+<img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FNetoF&theme=buefy&layout=compact" />
+<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=FNetoF.FNetoF"/>
+<br>
 ⭐️ De acordo com a [Strongreen](https://github.com/Strongreen)
