@@ -30,3 +30,9 @@ Estas são algumas das tecnologias e ferramentas com as quais eu estudo:
 <img src="https://visitor-badge.glitch.me/badge?page_id=FNetoF.FNetoF"/>
 <br>
 ⭐️ From [Strongreen](https://github.com/Strongreen)
+
+<div align="center">
+
+  ![Snake animation](https://github.com/FNetoF/FNetoF/blob/output/github-contribution-grid-snake.svg)
+
+</div>
