@@ -31,11 +31,10 @@
 <div>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1616242393601.png" width="400px" />
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=fnetof&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="fnetof's Github Stats"><br>
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=fnetof&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="fnetof's Github Stats"><br>
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnetof&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="fnetof" /><br>
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnetof&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="fnetof" /><br>
 </div>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
