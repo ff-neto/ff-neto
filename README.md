@@ -16,7 +16,9 @@
 	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="60" height="60"/>
     <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="60" height="60"/>
 	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/> 
-	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="60" height="60"/> 
+	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="60" height="60"/>
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> 
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/> 
     <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
 	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
     <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=linux width="60" height="60"/>
@@ -30,9 +32,9 @@
 
 <img align="right"  width="300px" alt="GIF" src="https://user-images.githubusercontent.com/60360540/189466336-dc1837c6-92c8-422d-b823-40de61296f30.png" />
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=fnetof&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="fnetof's Github Stats"><br>
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=ff-neto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ff-neto's Github Stats"><br>
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnetof&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="fnetof" /><br>
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=ff-neto&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ff-neto" /><br>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -45,13 +47,13 @@
 
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://profile-counter.glitch.me/FNetoF/count.svg" />
+  <img src="https://profile-counter.glitch.me/ff-neto/count.svg" />
 </p>
 
 
 <div align="center">
 
-  ![Snake animation](https://github.com/FNetoF/FNetoF/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ff-neto/ff-neto/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
