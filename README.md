@@ -5,29 +5,29 @@
 <br>
 
 <p align="center">
-	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/> 
-	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/> 
-	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/> 
-	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="60" height="60"/>
-	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/> 
-	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> 
+	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/>&nbsp;&nbsp;
+	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/>&nbsp;&nbsp;
+	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/>&nbsp;&nbsp;
+	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="60" height="60"/>&nbsp;&nbsp;
+	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/>&nbsp;&nbsp;
+	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>&nbsp;&nbsp;
     <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/>
     <img style="margin: auto;" src="https://user-images.githubusercontent.com/60360540/197354200-423a25a3-0c58-4e87-b9c9-e5e36001603c.png" alt="Google Colab" title="Google Colab" width="120" height="70"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
-	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=linux width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt=docker width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt=github width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="60" height="60"/>
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="60" height="60"/>
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>&nbsp;&nbsp;
+	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=linux width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt=docker width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt=github width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="60" height="60"/>&nbsp;&nbsp;
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="60" height="60"/>&nbsp;&nbsp;
 </p>
 <br>
 
