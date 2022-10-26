@@ -18,7 +18,8 @@
 	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/> 
 	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="60" height="60"/>
     <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> 
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/> 
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/>
+    <img style="margin: auto;" src="https://user-images.githubusercontent.com/60360540/197354200-423a25a3-0c58-4e87-b9c9-e5e36001603c.png" alt="Google Colab" title="Google Colab" width="120" height="70"/>
     <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
 	<img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
     <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=linux width="60" height="60"/>
